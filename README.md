@@ -3,8 +3,8 @@
 This work provides a framework for sparse-view CT image reconstruction using fully convolutional encoder-decoder networks. We provide two variations of the approach namely LRR-CED (D) with fully convolutional dense networks and LRR-CED(U) with UNet. 
 
 # Requirements 
-tensorflow 2.4__
-pydicom__
+tensorflow 2.4\
+pydicom\
 astra toolbox
 
 # Repo Description 
