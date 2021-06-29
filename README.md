@@ -9,8 +9,8 @@ astra toolbox
 
 # Repo Description 
 
-**demo.ipynb**  contains an out of the box demo that load the weights and demonstrates results on test data\
-**data_preparation.py** script for data preparationd and pre-processing required for training the neural networks from scratch\
+**demo.ipynb**  contains an out of the box demo that loads the weights and presents results on test data\
+**data_preparation.py** script for data preparation and pre-processing required for training the neural networks from scratch\
 **training.py** script for training the neural networks\
 
 # References 
